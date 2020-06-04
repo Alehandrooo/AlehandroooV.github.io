@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Филиппов</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body style="background-image: url(depositphotos_78207234-stock-illustration-шаблон-черной-бесшовные-волнистые-линии.jpg);">
+<div class="banner">
+    <div class="logo">
+        <img src="Ресурс 2.svg" alt="">
+    </div>
+    <div class="menu"> 
+        <ul>
+        <li><a class="sim" href="index.html">Главная</a></li>
+        <li><a class="sim" href="service.html">Услуги</a></li>
+        <li><a class="sim" href="About.html">Контакты</a></li>
+        </ul>
+    </div>
+
+
+
+<table class="t">
+<tr>
+    <th>Что сделаем</th>
+    <th>Подробнее</th>
+    <th>Цена</th>
+</tr>
+<tr>
+    <td>Опубликация</td>
+    <td>Опубликуем вашу книгу в интернет</td>
+    <td>3000 руб.</td>
+</tr>
+<tr>
+    <td>Рецензия</td>
+    <td>Закажем рецензию на вашу книгу</td>
+    <td>5000 руб.</td>
+</tr>
+<tr>
+    <td>Обложка</td>
+    <td>Придумаем и сделаем обложку для вашей книги</td>
+    <td>2500 руб.</td>
+</tr>
+<tr>
+    <td>Тираж</td>
+    <td>Распечатаем вашу книгу и выстовим нужный вам тираж</td>
+    <td>15000 руб.</td>
+</tr>
+
+</table>
+</div>
+</body>
+</html>
