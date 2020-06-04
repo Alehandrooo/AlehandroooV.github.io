@@ -79,11 +79,12 @@ li {
 }
 .text{
   margin-top: 100px;
+  position: relative;
   text-align: center;
   font-family: "Yu Gothic UI";
   font-size: 20px;
   display: flex;
-  flex-basis: 100%;
+  flex-basis: 60%;
 }
 
 .text p::selection{
