@@ -1,0 +1,146 @@
+ body{
+  background-image: url("epositphotos_78207234-stock-illustration-шаблон-черной-бесшовные-волнистые-линии.jpg");
+  background-attachment: fixed;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.banner{}
+
+.menu ul{
+  list-style:  none; 
+  margin: 0; 
+  padding-left: 75%; 
+  margin-top:-125px; 
+}
+.sim{
+  text-decoration: none; 
+  background:black; 
+  color:#fff; 
+  padding:10px; 
+  font-family: 'Roboto'; 
+  font-size: 30px;
+  border-radius:7px; 
+  -moz-transition: all 0.3s 0.01s ease; /
+  -o-transition: all 0.3s 0.01s ease;
+  -webkit-transition: all 0.3s 0.01s ease;
+}
+.sim:hover {
+  background:#EE82EE;
+}
+li {
+  float:left; 
+  margin-right:15px; 
+}
+
+.logo{
+  margin:0;
+  width: 100px;
+  height: 170px;
+  position: relative;
+  left: 40px;
+}
+
+.title{
+  width: 700px;
+  height: 500px;
+  margin: 0; 
+  position: relative;
+  left: 23%;
+}
+
+.container{
+  height: 450px;
+  box-shadow: -3px -3px 20px #000;
+  background-color: #fff;
+  display: flex;
+
+}
+
+.container_main{
+  height: 750px;
+  box-shadow: -3px -3px 20px #000;
+  background-color: #fff;
+  display: flex;
+
+}
+
+
+.book{
+  width: 550px;
+  height: 540px;
+  left: 50px;
+  position: relative;
+  top: 30px;
+    display: flex;
+  flex-basis: 40%;
+}
+.text{
+  margin-top: 100px;
+  text-align: center;
+  font-family: "Yu Gothic UI";
+  font-size: 20px;
+  display: flex;
+  flex-basis: 100%;
+}
+
+.text p::selection{
+  background: #EE82EE;
+}
+
+.social-links {
+position: relative;
+  top: -60px;
+text-align: center;
+}
+.social-link {
+  text-decoration: none;
+  margin-right: 44px;
+  color: black;
+}
+
+
+
+.t{
+  width: 1000px;
+  height: 400px;
+}
+
+table {
+  width: 900px;
+  position: relative;
+  top: 300px;
+  left: 460px;
+  text-decoration: none;
+  border-collapse:none;
+  text-align:center;
+}
+th{
+  border-radius: 13px;
+  font-weight:normal;
+  font-size:30px; 
+  color:#000;
+  background-color:#EE82EE;
+}
+td{
+  border-radius: 13px;
+    background-color:#fff;
+  font-size:25px;
+  color:#000;
+}
+td,th{
+  white-space:pre-wrap;
+  padding:11px 0px;
+  line-height:17px;
+  vertical-align: middle;
+  border: 1px solid #EE82EE;
+  } 
+
+tr:hover td{
+  color:#EE82EE;
+  cursor:default;
+}
+
+
